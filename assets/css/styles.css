@@ -40,7 +40,7 @@ body {
     box-shadow: none;
     position: relative;
 	margin: auto;
-	width: 100%;
+    width: 100%;
 }
 
 .place {
@@ -68,4 +68,59 @@ body {
 	color:#fff;
 	background: #2c3e50;
     opacity:.8;
+}
+.projects {
+    position: relative;
+    width: 100%;
+}
+
+.projectPhoto {
+    display: block;
+    /* width: 50%; */
+    /* height: auto; */
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.caption2 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: auto;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #008CBA;
+}
+
+.projects:hover .caption2 {
+    opacity: .8;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.live2 {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.git2 {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
 }
