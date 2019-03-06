@@ -20,8 +20,8 @@
 <body>
 
     <nav class="navbar navbar-expand-md navbar-default bgteal navbar-dark">
-        <a class="navbar-brand" href="index.php">Tyler Patrick McKellar</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <a class="navbar-brand" href="index.php">Tyler McKellar</a>
+        <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
@@ -60,15 +60,15 @@
                 <h1 class="deets">Portfolio</h1>
             </div>
         </div>
-        <div class="row mt-3 d-flex flex-wrap">
-            <div class="col-md projects rounded">
+        <div class="row d-flex flex-wrap">
+            <div class="col-md projects rounded mt-3">
                 <img src="assets/images/JustinCASE.jpg" alt="JustinCase" class="place rounded projectPhoto">
                 <div class="caption2">
                     <a class="live2" href="https://laurashortridge.github.io/Group-Project/" target="_blank">JustinCASE</a>
                     <a class="git2" href="https://github.com/LauraShortridge/Group-Project" target="_blank">GitHub</a>
                 </div>
             </div>
-            <div class="col-md projects rounded">
+            <div class="col-md projects rounded mt-3">
                 <img src="assets/images/GifTastic.jpg" alt="Rock Paper Scissors" class="place rounded projectPhoto">
                 <div class="caption2">
                     <a class="live2" href="https://mistawizard.github.io/GifTastic/" target="_blank">GifTastic</a>
@@ -76,8 +76,8 @@
                 </div>
             </div>
         </div>
-        <div class="row mt-3 d-flex flex-wrap">
-            <div class="col-md projects rounded">
+        <div class="row d-flex flex-wrap">
+            <div class="col-md projects rounded mt-3">
                 <img src="assets/images/PokeTrivia.jpg" alt="PokeTrivia" class="place rounded projectPhoto">
                 <div class="caption2">
                     <a class="live2" href="https://mistawizard.github.io/TriviaGame/" target="_blank">PokeTrivia</a>
@@ -86,7 +86,7 @@
             </div>
         <!-- </div>
         <div class="row mt-3 d-flex"> -->
-            <div class="col-md projects rounded">
+            <div class="col-md projects rounded mt-3">
                 <img src="assets/images/pedal.jpg" alt="Teensy Go Button" class="place rounded projectPhoto">
                 <div class="caption2">
                     <a class="live2" href="https://youtu.be/6ctmaTl-CX4" target="_blank">Teensy Go Button</a>
