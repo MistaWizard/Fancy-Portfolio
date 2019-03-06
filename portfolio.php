@@ -62,14 +62,46 @@
         </div>
         <div class="row d-flex flex-wrap">
             <div class="col-md projects rounded mt-3">
-                <img src="assets/images/JustinCASE.jpg" alt="JustinCase" class="place rounded projectPhoto">
+                <img src="assets/images/ComicVerse.jpeg" alt="Comic-Verse" class="place rounded projectPhoto border border-secondary">
+                <div class="caption2">
+                    <a class="live2" href="https://comicverse.herokuapp.com/" target="_blank">Comic-Verse</a>
+                    <a class="git2" href="https://github.com/giantrotta24/Comic-Verse" target="_blank">GitHub</a>
+                </div>
+            </div>
+            <div class="col-md projects rounded mt-3">
+                <img src="assets/images/EatDaBurger.jpeg" alt="Eat Da Burger" class="place rounded projectPhoto border border-secondary">
+                <div class="caption2">
+                    <a class="live2" href="https://eatethdaburger.herokuapp.com/" target="_blank">Eat Da Burger</a>
+                    <a class="git2" href="https://github.com/MistaWizard/burger" target="_blank">GitHub</a>
+                </div>
+            </div>
+        </div>
+        <div class="row d-flex flex-wrap">
+            <div class="col-md projects rounded mt-3">
+                <img src="assets/images/SimpsonsFriendFinder.jpeg" alt="Simpsons Friend Finder" class="place rounded projectPhoto border border-secondary">
+                <div class="caption2">
+                    <a class="live2" href="https://simpsonsfriendfinder.herokuapp.com/" target="_blank">Simpsons Friend Finder</a>
+                    <a class="git2" href="https://github.com/MistaWizard/FriendFinder" target="_blank">GitHub</a>
+                </div>
+            </div>
+            <div class="col-md projects rounded mt-3">
+                <img src="assets/images/RPSLS.jpeg" alt="Rock Paper Scissors Lizard Spock" class="place rounded projectPhoto border border-secondary">
+                <div class="caption2">
+                    <a class="live2" href="https://mistawizard.github.io/RPSLS/" target="_blank">RPSLS</a>
+                    <a class="git2" href="https://github.com/MistaWizard/RPSLS" target="_blank">GitHub</a>
+                </div>
+            </div>
+        </div>
+        <div class="row d-flex flex-wrap">
+            <div class="col-md projects rounded mt-3">
+                <img src="assets/images/JustinCASE.jpg" alt="JustinCase" class="place rounded projectPhoto border border-secondary">
                 <div class="caption2">
                     <a class="live2" href="https://laurashortridge.github.io/Group-Project/" target="_blank">JustinCASE</a>
                     <a class="git2" href="https://github.com/LauraShortridge/Group-Project" target="_blank">GitHub</a>
                 </div>
             </div>
             <div class="col-md projects rounded mt-3">
-                <img src="assets/images/GifTastic.jpg" alt="Rock Paper Scissors" class="place rounded projectPhoto">
+                <img src="assets/images/GifTastic.jpg" alt="Rock Paper Scissors" class="place rounded projectPhoto border border-secondary">
                 <div class="caption2">
                     <a class="live2" href="https://mistawizard.github.io/GifTastic/" target="_blank">GifTastic</a>
                     <a class="git2" href="https://github.com/MistaWizard/GifTastic" target="_blank">GitHub</a>
@@ -78,16 +110,14 @@
         </div>
         <div class="row d-flex flex-wrap">
             <div class="col-md projects rounded mt-3">
-                <img src="assets/images/PokeTrivia.jpg" alt="PokeTrivia" class="place rounded projectPhoto">
+                <img src="assets/images/PokeTrivia.jpg" alt="PokeTrivia" class="place rounded projectPhoto border border-secondary">
                 <div class="caption2">
                     <a class="live2" href="https://mistawizard.github.io/TriviaGame/" target="_blank">PokeTrivia</a>
                     <a class="git2" href="https://github.com/MistaWizard/TriviaGame" target="_blank">GitHub</a>
                 </div>
             </div>
-        <!-- </div>
-        <div class="row mt-3 d-flex"> -->
             <div class="col-md projects rounded mt-3">
-                <img src="assets/images/pedal.jpg" alt="Teensy Go Button" class="place rounded projectPhoto">
+                <img src="assets/images/pedal.jpg" alt="Teensy Go Button" class="place rounded projectPhoto border border-secondary">
                 <div class="caption2">
                     <a class="live2" href="https://youtu.be/6ctmaTl-CX4" target="_blank">Teensy Go Button</a>
                     <a class="git2" href="https://github.com/MistaWizard/TeensyGoButton" target="_blank">GitHub</a>
